@@ -61,7 +61,7 @@ Traditional job portals don’t cater to these unique needs, leaving a large seg
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/jayesh3103/RuralConnect.git
+   git clone https://github.com/KushalZanzari/Graamin-Mitra.git
 2. Navigate to the project directory:
    ```bash
    cd backend
@@ -102,6 +102,6 @@ Check the `LICENSE` file for more info. 📝
 
 ## 📬 Contact
 Have feedback or questions?  
-📧 Email: [jayesh.muley@yahoo.com](mailto:jayesh.muley@yahoo.com)  
-🔗 LinkedIn: [Connect on LinkedIn](https://www.linkedin.com/in/mr-jayeshmuley) 💌
+📧 Email: [kushalzanzari@gmail.com](mailto:kushalzanzari@gmail.com)  
+🔗 LinkedIn: [Connect on LinkedIn](https://www.linkedin.com/in/kushal-z-a96535255/) 
 
