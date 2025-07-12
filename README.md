@@ -1,9 +1,9 @@
-# 🌾 GraminMitra 💼🌐
+# 🌾 Graamin-Mitra 💼🌐
 
 ## Bridging the Gap Between Rural Talent and Employment Opportunities 🚜🤝🏙️
 
 ### 🎯 Mission
-**RuralConnect** is a digital initiative aimed at solving one of India's pressing challenges — unemployment in rural areas. Our mission is to **connect rural job seekers with local and urban employment opportunities**, using a blend of **technology and community-driven solutions**.
+**Graamin-Mitra** is a digital initiative aimed at solving one of India's pressing challenges — unemployment in rural areas. Our mission is to **connect rural job seekers with local and urban employment opportunities**, using a blend of **technology and community-driven solutions**.
 
 By integrating an **online + offline model**, we enable job registration and discovery even in **low-connectivity areas**, with the help of **local agents**. Our platform promotes inclusivity by accommodating users with **low digital literacy**, while offering a rich and user-friendly web experience. 🌍💻
 
@@ -83,7 +83,7 @@ Traditional job portals don’t cater to these unique needs, leaving a large seg
 ---
 
 ## 🌐 Live Website
-The platform is live! Visit us at [GraminMitra](https://gramin-mitra-client.vercel.app) to explore our health-conscious dining options and experience the AI-powered meal customization! 🍽️🚀
+The platform is live! Visit us at [Graamin-Mitra](https://gramin-mitra-client.vercel.app) to explore our health-conscious dining options and experience the AI-powered meal customization! 🍽️🚀
 
 ---
 
