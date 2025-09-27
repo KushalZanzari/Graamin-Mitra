@@ -5,7 +5,7 @@
 ### 🎯 Mission
 **Graamin-Mitra** is a digital initiative aimed at solving one of India's pressing challenges — unemployment in rural areas. Our mission is to **connect rural job seekers with local and urban employment opportunities**, using a blend of **technology and community-driven solutions**.
 
-By integrating an **online + offline model**, we enable job registration and discovery even in **low-connectivity areas**, with the help of **local agents**. Our platform promotes inclusivity by accommodating users with **low digital literacy**, while offering a rich and user-friendly web experience. 🌍💻
+By integrating an **online + offline model**, we enable job registration and discovery even in **low-connectivity areas**, with the help of **local agents**. Our platform promotes inclusivity by accommodating users with **low digital literacy**, while offering a rich and user-friendly web experience. 
 
 ---
 
@@ -16,7 +16,7 @@ Unemployment in rural areas persists due to:
 - Absence of **local language support** and **on-ground assistance**
 - Difficulty in matching **skilled rural labor** with appropriate jobs
 
-Traditional job portals don’t cater to these unique needs, leaving a large segment of the population behind. 🧑‍🌾📉
+Traditional job portals don’t cater to these unique needs, leaving a large segment of the population behind. 
 
 ---
 
@@ -41,19 +41,19 @@ Traditional job portals don’t cater to these unique needs, leaving a large seg
 ## 🛠️ Tech Stack
 
 ### Frontend
-- **React.js** – Modern, responsive web app interface ⚛️
+- **React.js** – Modern, responsive web app interface 
 - **HTML5 & CSS3** – Structured and styled UI
 - **JavaScript** – For dynamic interactions
 
 ### Backend
-- **Node.js + Express.js** – Robust server and API management 🛠️
+- **Node.js + Express.js** – Robust server and API management 
 
 ### AI/ML
 - **Python + Scikit-learn** – Job recommendation engine
 - **NLP (Natural Language Processing)** – Used for chatbot interaction
 
 ### Database
-- **PostgreSQL** – Structured data for users, jobs, agents, and companies 🗃️
+- **PostgreSQL** – Structured data for users, jobs, agents, and companies 
 
 ---
 
@@ -90,13 +90,13 @@ The platform is live! Visit us at [Graamin-Mitra](https://gramin-mitra-client.ve
 ## 🤝 Contributing
 Contributions are welcome!  
 If you have ideas to improve **RuralConnect**, feel free to **fork the repository** and open a **pull request**.  
-Let's build something meaningful together. 🌱👩‍💻👨‍💻
+Let's build something meaningful together. 
 
 ---
 
 ## 📜 License
 This project is open-source and available under the **MIT License**.  
-Check the `LICENSE` file for more info. 📝
+Check the `LICENSE` file for more info. 
 
 ---
 
